@@ -1,0 +1,1 @@
+select * from AMAZON_SALES_REPORT;
